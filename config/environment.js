@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-tooltip-example',
     environment,
-    rootURL: '/',
+    rootURL: '/ember-tooltip-example/example/',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {

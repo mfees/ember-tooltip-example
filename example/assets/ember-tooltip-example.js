@@ -278,6 +278,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("ember-tooltip-example/app")["default"].create({"name":"ember-tooltip-example","version":"0.0.0+c66bd45d"});
+  require("ember-tooltip-example/app")["default"].create({"name":"ember-tooltip-example","version":"0.0.0+5716fb9b"});
 }
 //# sourceMappingURL=ember-tooltip-example.map
